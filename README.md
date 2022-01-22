@@ -1,0 +1,1 @@
+Perkenalkan saya Muhamad Arifin, project ini adalah aplikasi web yang difokuskan untuk mobile, jadi tampilannya lebih kearah mobile, jadi bila untuk web masih kurang baik tampilannya. Movie-vue-arifin ini adalah aplikasi list movie yang dapat di search untuk mencari film apa saja. Terima kasih.
